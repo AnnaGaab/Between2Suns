@@ -1,0 +1,102 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Abbreviations}{5}{section.1}
+\contentsline {section}{\numberline {2}What you need}{7}{section.2}
+\contentsline {section}{\numberline {3}Structure of Play}{8}{section.3}
+\contentsline {subsection}{\numberline {3.1}The Bonus Action}{8}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Placement of terrain and units}{8}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Possible Actions}{8}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Moving a Squad}{9}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Initiating Close Combat}{9}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Being bound by Close Combat}{10}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}Rules of Sight}{10}{subsection.3.7}
+\contentsline {subsection}{\numberline {3.8}Sizes}{10}{subsection.3.8}
+\contentsline {section}{\numberline {4}Shooting, Hitting, Wounding, Saving, Killing and other related fun}{12}{section.4}
+\contentsline {subsection}{\numberline {4.1}Shooting and Hitting in Ranged Combat}{12}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Whom to Shoot at}{12}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Shooting Area of Effect Weapons}{12}{subsubsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.3}Indirect Fire}{12}{subsubsection.4.1.3}
+\contentsline {subsubsection}{\numberline {4.1.4}Hitting those Shots from afar}{13}{subsubsection.4.1.4}
+\contentsline {subsubsection}{\numberline {4.1.5}Shooting at Squads}{14}{subsubsection.4.1.5}
+\contentsline {subsection}{\numberline {4.2}Hitting in Close Combat}{14}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Saving Rolls}{15}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Pre-Wound Saves}{15}{subsubsection.4.3.1}
+\contentsline {paragraph}{Common Types of Pre-Wound Saves}{16}{paragraph*.3}
+\contentsline {subparagraph}{Shields}{16}{subparagraph*.4}
+\contentsline {subparagraph}{Barrier}{16}{subparagraph*.5}
+\contentsline {subparagraph}{Hate Injector}{16}{subparagraph*.6}
+\contentsline {subparagraph}{Extraordinary Reflexes}{16}{subparagraph*.7}
+\contentsline {subsubsection}{\numberline {4.3.2}Post-Wound Saves}{16}{subsubsection.4.3.2}
+\contentsline {paragraph}{Common Types of Post-Wound Saves}{17}{paragraph*.8}
+\contentsline {subsubsection}{\numberline {4.3.3}Multiple Saves}{17}{subsubsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.4}Shield Negation}{17}{subsubsection.4.3.4}
+\contentsline {subsection}{\numberline {4.4}Converting your Hits into Wounds}{18}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Re-Rolls}{19}{subsection.4.5}
+\contentsline {section}{\numberline {5}Morale}{20}{section.5}
+\contentsline {section}{\numberline {6}Stats, Attributes and Making Your Own Soldiers and Units}{20}{section.6}
+\contentsline {subsection}{\numberline {6.1}Choose the Unit Type}{20}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Choose your Race}{21}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Beef up your Unit}{21}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Equip your Unit}{23}{subsection.6.4}
+\contentsline {subsubsection}{\numberline {6.4.1}Training Skills}{23}{subsubsection.6.4.1}
+\contentsline {subsection}{\numberline {6.5}Squadleaders and Specialists}{24}{subsection.6.5}
+\contentsline {subsubsection}{\numberline {6.5.1}Careful!}{26}{subsubsection.6.5.1}
+\contentsline {subsection}{\numberline {6.6}Finalize everything}{27}{subsection.6.6}
+\contentsline {paragraph}{Total Cost of 533 (262+129+142) points}{27}{paragraph*.9}
+\contentsline {paragraph}{Attention}{27}{paragraph*.10}
+\contentsline {section}{\numberline {7}Equipment}{28}{section.7}
+\contentsline {subsection}{\numberline {7.1}General Equipment Rules}{28}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Common Equipment}{28}{subsection.7.2}
+\contentsline {subsubsection}{\numberline {7.2.1}Armor}{28}{subsubsection.7.2.1}
+\contentsline {subsubsection}{\numberline {7.2.2}Pre - Wound Saves}{30}{subsubsection.7.2.2}
+\contentsline {subsubsection}{\numberline {7.2.3}Traits}{30}{subsubsection.7.2.3}
+\contentsline {subsection}{\numberline {7.3}Special Branch}{31}{subsection.7.3}
+\contentsline {subsubsection}{\numberline {7.3.1}Equipment}{31}{subsubsection.7.3.1}
+\contentsline {subsubsection}{\numberline {7.3.2}Grenades}{31}{subsubsection.7.3.2}
+\contentsline {subsection}{\numberline {7.4}Ammunition}{32}{subsection.7.4}
+\contentsline {subsection}{\numberline {7.5}Weaponry}{34}{subsection.7.5}
+\contentsline {subsubsection}{\numberline {7.5.1}Light Weaponry}{34}{subsubsection.7.5.1}
+\contentsline {subsubsection}{\numberline {7.5.2}Heavy Weaponry}{34}{subsubsection.7.5.2}
+\contentsline {subparagraph}{Suppressive Fire at a distance equal/greater than Weapon Range / 2 (rounded up)}{36}{subparagraph*.11}
+\contentsline {subparagraph}{Suppressive Fire at a distance less than Weapon Range / 2 (rounded up)}{37}{subparagraph*.12}
+\contentsline {subsubsection}{\numberline {7.5.3}Melee Weaponry}{37}{subsubsection.7.5.3}
+\contentsline {section}{\numberline {8}Abilities}{38}{section.8}
+\contentsline {subsection}{\numberline {8.1}Tech - Abilities}{38}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Combinations}{38}{subsection.8.2}
+\contentsline {section}{\numberline {9}Vehicles}{40}{section.9}
+\contentsline {subsection}{\numberline {9.1}How To Build Your Vehicles}{40}{subsection.9.1}
+\contentsline {subsubsection}{\numberline {9.1.1}Choose the Vehicle Type}{40}{subsubsection.9.1.1}
+\contentsline {subsubsection}{\numberline {9.1.2}Build your Crew}{41}{subsubsection.9.1.2}
+\contentsline {subsubsection}{\numberline {9.1.3}Buy Vehicle Equipment}{42}{subsubsection.9.1.3}
+\contentsline {subsubsection}{\numberline {9.1.4}Finalize Everything}{44}{subsubsection.9.1.4}
+\contentsline {subsection}{\numberline {9.2}General Vehicle Rules}{45}{subsection.9.2}
+\contentsline {subsubsection}{\numberline {9.2.1}Wounding Vehicles}{46}{subsubsection.9.2.1}
+\contentsline {subsubsection}{\numberline {9.2.2}Boardable Vehicles}{47}{subsubsection.9.2.2}
+\contentsline {subsubsection}{\numberline {9.2.3}Damage Card Deck}{48}{subsubsection.9.2.3}
+\contentsline {section}{\numberline {10}Heavy Weapon Teams}{52}{section.10}
+\contentsline {section}{\numberline {11}Flying Units}{53}{section.11}
+\contentsline {subsection}{\numberline {11.1}Hovering}{53}{subsection.11.1}
+\contentsline {subsection}{\numberline {11.2}Jump Unit}{53}{subsection.11.2}
+\contentsline {subsection}{\numberline {11.3}Organic Flight Unit}{53}{subsection.11.3}
+\contentsline {subsection}{\numberline {11.4}Low Altitude Flight Unit}{53}{subsection.11.4}
+\contentsline {subsection}{\numberline {11.5}Flight Unit}{54}{subsection.11.5}
+\contentsline {section}{\numberline {12}Army Composition}{55}{section.12}
+\contentsline {section}{\numberline {13}How To Win The Game}{56}{section.13}
+\contentsline {subsection}{\numberline {13.1}Earning Victory Points}{56}{subsection.13.1}
+\contentsline {subsection}{\numberline {13.2}Tactical Objectives}{56}{subsection.13.2}
+\contentsline {subsection}{\numberline {13.3}Mission Cards}{57}{subsection.13.3}
+\contentsline {subsection}{\numberline {13.4}Mission Card Deck}{58}{subsection.13.4}
+\contentsline {section}{\numberline {14}Terrain Characteristics}{62}{section.14}
+\contentsline {subsection}{\numberline {14.1}Terrain, Cover and Explosions}{62}{subsection.14.1}
+\contentsline {subsection}{\numberline {14.2}Climbing and Jumping}{62}{subsection.14.2}
+\contentsline {section}{\numberline {15}Appendix}{62}{section.15}
+\contentsline {subsection}{\numberline {15.1}Races and their Stats}{62}{subsection.15.1}
+\contentsline {subsubsection}{\numberline {15.1.1}Humans}{62}{subsubsection.15.1.1}
+\contentsline {paragraph}{Special Rules}{62}{paragraph*.13}
+\contentsline {subparagraph}{Stick Together!}{62}{subparagraph*.14}
+\contentsline {subparagraph}{Kill them! Kill them all!}{62}{subparagraph*.15}
+\contentsline {subsubsection}{\numberline {15.1.2}Asari}{63}{subsubsection.15.1.2}
+\contentsline {subparagraph}{Elite}{63}{subparagraph*.16}
+\contentsline {subsubsection}{\numberline {15.1.3}Kroghans}{63}{subsubsection.15.1.3}
+\contentsline {subsection}{\numberline {15.2}Humans Only Special Upgrades}{64}{subsection.15.2}
+\contentsline {subsubsection}{\numberline {15.2.1}Vampirism}{64}{subsubsection.15.2.1}
+\contentsline {subsubsection}{\numberline {15.2.2}Lycanthropy}{64}{subsubsection.15.2.2}

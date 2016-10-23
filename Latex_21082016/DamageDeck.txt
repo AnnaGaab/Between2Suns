@@ -1,0 +1,8 @@
+CARDS=36
+BORDER=ROUNDED
+PAGE=21,29.7,PORTRAIT,HV
+DPI=300
+CARDSIZE=6,9
+GAP=1,1
+
+IMAGE=,C:\Users\Masgroth\Documents\Between two Suns Latex\fire-explosion.png,0,0,1,1
